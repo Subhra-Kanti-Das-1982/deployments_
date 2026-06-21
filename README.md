@@ -1,4 +1,4 @@
-<img width="237" height="236" alt="image" src="https://github.com/user-attachments/assets/76c89cef-606c-4326-8548-e72ef6cc8832" />
+<div align="center"><img width="437" height="436" alt="image" src="https://github.com/user-attachments/assets/76c89cef-606c-4326-8548-e72ef6cc8832" /></div>
 
 # DhaaRAa - Dharma Reflection Assistant 
 #### DhaaRAa is a personal assistant based on Indian Hindu Mythology and scriptures of wisdom to assist adolescents and teenagers to self analyse their own actions and behavior in a systematic approach without losing their self-esteem or confidence and still be guided on the principles of righteousness.
